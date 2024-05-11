@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "iris-example"
+name = "iris"
 version = "0.1.0"
-description = ""
+description = "Iris example project"
 authors = ["Andrew Knoesen <andrew@spatialedge.co.za>"]
 readme = "README.md"
 
